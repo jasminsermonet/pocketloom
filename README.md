@@ -1,4 +1,4 @@
-![pocketlooms-header](https://github.com/jasminsermonet/pocketloom/assets/159716647/ccc4400d-a77e-49e6-9067-9e493a54a922)
+![pocketlooms-header](https://github.com/jasminsermonet/pocketloom/assets/159716647/fbb8371b-7e20-4d2b-9022-9277310df00d)
 
 
 
