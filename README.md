@@ -51,5 +51,5 @@ Here you can see the assembled Pocketloom and a image of all parts. If you made 
 
 ### Parts not designed by me:</br>
 Needle design by @sylviamoss</br>
-M8 Cap Nut: https://makerworld.com/en/models/378392#profileId-313021</br>
+M8 Dome Nut: [https://makerworld.com/en/models/378392#profileId-313021](https://grabcad.com/library/m8-nuts-1)</br>
 M8 Wing Nut: https://www.printables.com/de/model/455708-handles-for-m7-to-m12-bolts-and-screws</br>
