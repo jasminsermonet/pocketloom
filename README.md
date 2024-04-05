@@ -1,3 +1,7 @@
+![pocketlooms-header](https://github.com/jasminsermonet/pocketloom/assets/159716647/ccc4400d-a77e-49e6-9067-9e493a54a922)
+
+
+
 # Pocket Loom</br>
 A cute pocket loom I designed, to weave anywhere & anytime. I am selling these pocket looms in a set [here](https://yylyy8luvvrgs2rl-82725798235.shopifypreview.com/products/pocket-loom-set-loom-stand?variant=47996612936027).</br>
 </br>
